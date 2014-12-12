@@ -4,6 +4,6 @@ Virtualization=vmware
 [Network]
 DHCP=v4
 
-[DHCP]
+[DHCPv4]
 UseMTU=true
 RequestBroadcast=true
